@@ -16,16 +16,16 @@ def char_type():
             print(f"Result: Enter {char} is 'UPPERCASE")
 
         elif char.islower():
-            print("Result: Enter {char} is 'lowercase")
+            print(f"Result: Enter {char} is 'lowercase")
 
         elif char.isdigit():
-            print("Result: entre {char} is 'Number")
+            print(f"Result: entre {char} is 'Number")
 
         else:
-            print("Result:enter {char} is 'Speical char")
+            print(f"Result:enter {char} is 'Speical char")
 
     else:
-        print("Result: Invalid {char}! Please enter single char")
+        print(f"Result: Invalid {char}! Please enter single char")
 
 
 count = 0
