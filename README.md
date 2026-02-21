@@ -3,7 +3,7 @@
 
 ---
 
-## About this Scrip
+## About this Script
 A professional Python script to identify the type of character entered by the user. This tool categorizes inputs into Uppercase, Lowercase, Numbers, and Special characters.
 
 ## Features
